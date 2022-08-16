@@ -1,10 +1,17 @@
 wow another file
 
 ## another text
-## Changing Text 1
-## Changing text
-## Adding Text
+## another text part 2
+## another text part 3
+## another text part 4
+## another text part 5
+## another text part 6
 
-## Conflict from Syamil
-## Conflict from main
 
+
+
+
+
+
+
+## another feature 7
