@@ -1,6 +1,6 @@
 wow another file
 
 ## another text
-## Changing Text
-## yet another text
+## Changing Text 1
+## Changing text
 ## Adding Text
