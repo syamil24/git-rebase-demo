@@ -4,3 +4,5 @@ wow another file
 ## Changing Text 1
 ## Changing text
 ## Adding Text
+
+## Conflict from Syamil
