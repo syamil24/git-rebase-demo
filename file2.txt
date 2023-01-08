@@ -6,3 +6,5 @@ wow another file
 ## Adding Text
 
 ## Conflict from Syamil
+## Conflict from main
+
