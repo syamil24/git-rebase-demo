@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-testing to make conflict
-=======
 testing avoiding conflict
->>>>>>> 9109056 (Avoiding Conflict)
 
 this is interesting content
 
