@@ -3,3 +3,5 @@ testing to make conflict  as well
 this is interesting content
 
 here is some more interesting content
+
+Adding new line
