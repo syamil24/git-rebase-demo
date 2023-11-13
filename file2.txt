@@ -1,2 +1,1 @@
-Conflict Branch 2
-Conflict Branch 1
+Fix Conflict Using Branch Conflict-1
