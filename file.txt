@@ -5,3 +5,5 @@ this is interesting content
 here is some more interesting content
 
 Adding new line
+
+Adding another new line
